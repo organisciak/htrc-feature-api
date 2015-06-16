@@ -1,0 +1,27 @@
+{
+  "name": "htrc-feature-api",
+  "version": "1.0.0",
+  "description": "MongoDB Based API for the HTRC Extracted Features dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/organisciak/htrc-feature-api"
+  },
+  "keywords": [
+    "htrc",
+    "text",
+    "analysis",
+    "hathitrust",
+    "digital",
+    "humanities"
+  ],
+  "author": "Peter Organisciak",
+  "license": "NCSA",
+  "bugs": {
+    "url": "https://github.com/organisciak/htrc-feature-api/issues"
+  },
+  "homepage": "https://github.com/organisciak/htrc-feature-api"
+}
